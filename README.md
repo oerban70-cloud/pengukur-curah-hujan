@@ -8,7 +8,7 @@ interupsi, dan total hujan serta lajunya tampil di LCD — lengkap dengan LED
 yang berkedip tiap jungkitan.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/hs2kan-Xz78
 
 ## Komponen
 
